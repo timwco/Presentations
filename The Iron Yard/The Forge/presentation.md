@@ -5,7 +5,7 @@ What is considered the "front end" of a website or web application?
 
 The front end is the part of the web that you can see and interact with. It usually consists of two parts, the design and the frontend development.
 
-Designers vs FE Developers vs BE evelopers
+Designers vs FE Developers vs BE developers
 
 HTML, CSS & JavaScript
 
