@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>EMR Data</title>
+	<style>
+		#container { width: 1200px; margin: 50px auto; }
+		.pieWrapperLeft { width: 400px; float: left; }
+		.pieWrapperRight { width: 400px; float: right; }
+	</style>
+</head>
+<body>
+
+
+	<div id="container">
+		<table id="wijgrid"></table>
+		<div class="pieWrapperLeft">
+			<div id="wijpiechart"></div>
+		</div>
+		<div class="pieWrapperRight">
+			<div id="wijpiechartr"></div>
+		</div>
+	</div>
+
+	<!--Theme-->
+	<link href="http://cdn.wijmo.com/themes/aristo/jquery-wijmo.css" rel="stylesheet" type="text/css" />
+
+	<!--Wijmo Widgets CSS-->
+	<link href="http://cdn.wijmo.com/jquery.wijmo-pro.all.3.20142.45.min.css" rel="stylesheet" type="text/css" />
+
+	<!--RequireJs-->
+	<script type="text/javascript" src="http://cdn.wijmo.com/external/require.js"></script>
+
+	<script src="data/patientInfo.js"></script>
+	<script src="main.js"></script>
+
+</body>
+</html>
