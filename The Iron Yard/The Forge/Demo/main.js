@@ -28,6 +28,22 @@ require(["wijmo.wijgrid", "wijmo.wijpiechart"], function () {
             ]
         });
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
   	    $("#wijpiechart").wijpiechart({
           radius: 140,
           hint: {
